@@ -1,0 +1,4 @@
+import os
+os.environ["ClientID"] = "" #Clinet ID given in spotify developer profile
+os.environ["ClientSecret"] = ""
+os.environ["RedirectURL"] = "http://127.0.0.01:8080" #Set redirect url in developer profile
