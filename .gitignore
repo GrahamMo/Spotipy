@@ -1,2 +1,5 @@
 SpotifyID.py
 .cache-deangullberry42
+venv
+.idea
+__pycache__
